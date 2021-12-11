@@ -4,5 +4,4 @@
 FROM jupyter/scipy-notebook
 
 RUN conda install -c conda-forge --quiet --yes \
-    'altair==4.1.*' \
-    'pandas==1.3.*' 
+    'pandoc==2.16.*' 
