@@ -1,4 +1,4 @@
-# DSCI522 Individual assignment 4
+# DSCI 522 Individual assignment 4
 # Author: Siqi Tao
 
 FROM jupyter/scipy-notebook
